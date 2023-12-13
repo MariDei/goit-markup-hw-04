@@ -383,8 +383,9 @@ img {
   margin-right: 120px;
 }
 
-.container-footer-logo {
-  margin: 0 0 0 120px;
+.container-footer-logo,
+.container-footer-socials {
+  margin-left: 120px;
 }
 
 footer .logo {
@@ -404,21 +405,17 @@ footer .logo {
   letter-spacing: 0.02em;
 }
 
-.container-footer-socials {
-  margin: 0 0 0 120px;
-}
-
 .footer-caption {
   color: #fff;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  margin-bottom: 16px;
 }
 
 .footer-socials-list {
   display: flex;
   gap: 16px;
-  margin-top: 16px;
 }
 
 .footer-socials-item {
