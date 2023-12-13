@@ -272,6 +272,10 @@ img {
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
+img .team-section {
+  border-color: none;
+}
+
 .team-description {
   padding: 32px 0;
 }
