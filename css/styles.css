@@ -95,9 +95,9 @@ img {
 }
 
 .nav-link {
+  position: relative;
   display: block;
   padding: 24px 0;
-  position: relative;
   color: #2e2f42;
   font-weight: 500;
   line-height: 1.5;
@@ -204,9 +204,9 @@ img {
   width: 264px;
   padding: 24px 100px;
   margin-bottom: 8px;
+  background-color: #f4f4fd;
   border-radius: 4px;
   border: 1px solid #8e8f99;
-  background-color: #f4f4fd;
 }
 
 .feature-section,
