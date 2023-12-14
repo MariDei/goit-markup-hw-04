@@ -372,20 +372,18 @@ img {
 
 /* Footer */
 .footer-menu {
-  width: 1440px;
-  padding: 100px 0;
   background-color: #2e2f42;
 }
 
 .container-footer {
   display: flex;
   align-items: baseline;
-  margin-right: 120px;
+  padding: 100px 0 100px 156px;
+  max-width: 1440px;
 }
 
-.container-footer-logo,
-.container-footer-socials {
-  margin-left: 120px;
+.container-footer-logo {
+  margin-right: 120px;
 }
 
 footer .logo {
